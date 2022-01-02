@@ -5,7 +5,7 @@
 %
 % purpose:     This function calculates the frequency Amplitude Asymmetry
 %              between two signals by applying the equation (3-5)    
-%              using the Welch's method as described in section 3.3.2. 
+%              using the Welch's method as described in section 3.3.2 
 %              in Thesis.             
 % created by:  Fotios Kostarelos
 % created on:  9th March 2021
