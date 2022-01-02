@@ -5,7 +5,7 @@
 %
 % purpose:     This function calculates the frequency Relative Power 
 %              for a signal by applying the equation (3-4)    
-%              using the Welch's method as described in section 3.3.2.
+%              using the Welch's method as described in section 3.3.2
 %              in Thesis.
 %                           
 % created by:  Fotios Kostarelos
